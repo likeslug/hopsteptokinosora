@@ -1,0 +1,4 @@
+﻿const PICK_UP_CARDS_ON_CLEAR = [
+];
+const PICK_UP_CARDS_ON_GAMEOVER = [
+];
