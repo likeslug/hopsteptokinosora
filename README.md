@@ -5,6 +5,12 @@
 
 ---
 
+## URL
+
+https://likeslug.github.io/hopsteptokinosora/game
+
+---
+
 ## Thanks
 
 * SoraCh. ときのそらチャンネル https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg　
