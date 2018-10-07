@@ -21,3 +21,5 @@
 ## Environment
 
 以下の環境で動作確認済み
+Google Chrome 69
+Safari 11
